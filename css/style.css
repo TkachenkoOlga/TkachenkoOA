@@ -1,0 +1,143 @@
+a{
+   text-decoration: none;
+}
+li{
+   text-decoration: none;
+   list-style: none;
+}
+body{
+   font-family: 'Raleway', sans-serif;
+}
+.logo{
+   background: #ffffff;
+   width: 100%;
+   display: flex;
+   justify-content: center;
+}
+.graficlogo{
+   padding: 5px;
+   max-width: 100%;
+   box-sizing: border-box;
+   justify-content: center;
+}
+nav{
+   margin: auto;
+   width: 900px;
+   height: 40px;
+}
+.topnav{
+   background-color: #ffffff;
+   font-size: 14px;
+   margin-top: 20px;
+}
+.topnav a{
+   color: #000000;
+   text-align: center;
+   padding: 14px 16px;
+   font-size: 15px;
+}
+.topnav a:hover{
+   border-bottom: 5px solid #000000;
+}
+.photo1{
+   background: #ffffff;
+   width: 100%;
+   justify-content: center;
+   padding-top: 180px;
+}
+.position{
+position: relative;
+}
+.position p{
+position: absolute;
+top: 0;
+}
+.films{
+   padding-top: 0;
+   margin: 0;
+}
+.films1 p{
+   color: #777777;
+   font-size: 18px;
+}
+.films1{
+padding-top:5px;
+}
+.text{
+   color: #777777;
+   font-size: 18px;
+}
+.textimg{
+   color: #777777;
+   font-size: 18px;
+   text-align: center;
+}
+.video{
+width: 1180px;
+height: 664px; 
+}
+header{
+    overflow: hidden;
+    background-color: #ffffff;
+    position: fixed; 
+    top: 0;
+    width: 100%;
+}
+.container{
+   width: 1000px;
+   margin: 0 auto;
+}
+.title{
+   padding-top: 50px;
+}
+.title p{
+font-size: 20px;
+font-weight: bold;
+text-align: center;
+text-transform: uppercase; 
+margin: 0;
+}
+.services{
+
+}
+.services_item{
+   width: 300px;
+   float: left;
+   text-align: center;
+padding-bottom: 30px;
+}
+.services_item h3{
+   font-size: 20px;
+   margin-bottom: 2px; 
+}
+.services_item p{
+   color: #777777;
+   font-size: 18px;
+}
+.services_item:last-child{
+   float: right;
+}
+.services_item:nth-child(2){
+   margin-left: 60px;
+}
+.footer{
+background-color: #777777;
+color: #ffffff;
+padding-top: 30px;
+padding-top: 30px;
+}
+.footer p{
+margin-top: 0;
+margin-bottom: 15px;
+}
+.footer name p{
+font-size: 15px;
+margin-bottom: 30px;
+line-height: normal;
+}
+.photo2{
+width: 100%;
+}
+.picture{
+margin-bottom: 30px;
+}
